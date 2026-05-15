@@ -1,0 +1,17 @@
+{
+  "endpoint": "http://localhost:9999/graphql",
+  "api_key": "",
+  "language": "en",
+  "appearance": "dark",
+  "last_scene_search": "",
+  "path_map": {
+    "path_prefix_remote": "/data/",
+    "path_prefix_local": "D:\\Media\\Library",
+    "path_prefix_backup": "E:\\Media\\Backup",
+    "use_backup": false
+  },
+  "preview_player": {
+    "geometry": ""
+  },
+  "window_geometry": ""
+}
